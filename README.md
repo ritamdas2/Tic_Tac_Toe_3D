@@ -1,6 +1,7 @@
 # tictactoe_3d
 
-A new Flutter project.
+3 dimensional tic tac toe using flutter and dart
+/Tic_Tac_Toe_3D/lib --> all source code
 
 ## Getting Started
 
