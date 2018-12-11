@@ -29,3 +29,21 @@ Assuming you know nothing about Flutter
 
 When you start with the `build` method, you'll follow it *up" (meaning follow the methods it calls). Noting magical really, just start clicking through. Each method it calls should be reasonably self explanatory
 
+
+## How to Run Project
+
+1. Install Android Studio (Google)
+2. Install Flutter & Configure AS accordingly (Links below provide further instructions)
+
+     https://flutter.io/docs/get-started/install
+     
+     https://www.youtube.com/watch?v=Xy-qHlaHr6c   (macOS install video)
+     
+     https://www.youtube.com/watch?v=M3UfYS0bqhE&t=902s   (Windows install video)
+     
+3. Download zip file from GitHub & Unzip (from this page)
+4. Open project in Android Studio
+5. Open and connect an android or ios device/emulator & run
+
+Enjoy 3D Tic Tac Toe!
+
