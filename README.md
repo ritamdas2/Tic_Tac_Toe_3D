@@ -1,4 +1,4 @@
-# tictactoe_3d
+# 3D Tic Tac Toe
 
 3 dimensional tic tac toe using flutter and dart.
      /Tic_Tac_Toe_3D/lib --> all source code
