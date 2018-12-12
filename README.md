@@ -13,7 +13,7 @@ A few resources to get you started for your first Flutter project:
 [online documentation]( https://flutter.io/docs) offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
-Cheat Sheet
+For Reference
 -----------
 Assuming you know nothing about Flutter:
 
