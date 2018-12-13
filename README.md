@@ -39,7 +39,7 @@ When you start with the `build` method, you'll follow the methods it calls. Each
      
 3. Download zip file from GitHub & Unzip (from this page)
 4. Open project in Android Studio
-5. Open and connect an android or ios device/emulator & run
+5. Open and connect an android or ios device/emulator & run (This project was optimized for the Pixel XL API 28)
 
 Enjoy 3D Tic Tac Toe!
 
